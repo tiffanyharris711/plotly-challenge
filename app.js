@@ -78,7 +78,6 @@ function plotCharts(id) {
     //       THIS SECTION IS FOR THE BUBBLE CHART 
     //-----------------------------------------------------
     //-----------------------------------------------------
-    console.log(sampleValues[0]);
     var bubbleTrace = {
       x: otuIDs[0],
       y: sampleValues[0],
